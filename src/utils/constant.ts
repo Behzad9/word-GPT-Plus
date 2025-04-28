@@ -40,6 +40,7 @@ export const languageMap: IStringKeyMap = {
   mr: 'मराठी',
   ta: 'தமிழ்',
   te: 'తెలుగు',
+  ir: 'Persian',
   ur: 'اردو'
 }
 
